@@ -6,9 +6,9 @@ color:
   saturation: 0.6404602236580104
   rhythmicContrast: 0.6892141818534583
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: kirkegaard
