@@ -1,0 +1,14 @@
+layout_spectrum: 0.6768059995956719
+typography_spectrum: 0.8100697451736778
+color:
+  brandStrength: 0.5426446942146868
+  lightness: 0.8968800529837608
+  saturation: 0.6404602236580104
+  rhythmicContrast: 0.6892141818534583
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: kirkegaard
